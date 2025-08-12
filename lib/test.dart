@@ -17,6 +17,7 @@ class _TestPageState extends State<TestPage> {
         decoration: BoxDecoration(color: Colors.blue),
         child: Center(
           child: Text(
+            // This is a test page
             'This is a test page',
             style: TextStyle(color: Colors.white, fontSize: 24),
           ),
